@@ -15,7 +15,7 @@ public class Main {
         System.out.println("Vintage: " + v2.isVintage());
         System.out.println();
 
-        Vehicle v3 = new Vehicle("Ford","Ranger",, 1983);
+        Vehicle v3 = new Vehicle("Ford","Ranger", 1983);
 
         v3.displayInfo();
         System.out.println("Age: " + v3.calculateAge());
